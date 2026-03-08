@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+youtube-transcript-api>=0.6.2
+transformers>=4.38.0
+torch>=2.1.0
+sentencepiece>=0.1.99
+yt-dlp>=2024.3.10
+requests>=2.31.0
